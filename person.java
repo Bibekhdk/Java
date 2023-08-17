@@ -1,4 +1,4 @@
-package Java;
+
 public class person {
     private Integer A;
     private Character B;
